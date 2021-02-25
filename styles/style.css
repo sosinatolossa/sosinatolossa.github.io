@@ -369,7 +369,7 @@ table {
 	right:0.5em;
 	bottom:0.5em;
 	left:0.5em;
-	background: linear-gradient(#E04343 20%,rgba(0, 0, 0, 0) 20%,rgba(0, 0, 0, 0) 40%,#E04343 40%,#E04343 60%,rgba(0, 0, 0, 0) 60%,rgba(0, 0, 0, 0) 80%,#E04343 80%);
+	background: linear-gradient(darkgoldenrod 20%,rgba(0, 0, 0, 0) 20%,rgba(0, 0, 0, 0) 40%,darkgoldenrod 40%,darkgoldenrod 60%,rgba(0, 0, 0, 0) 60%,rgba(0, 0, 0, 0) 80%,darkgoldenrod 80%);
 	content:'';
 }
 .menu-button:hover {
@@ -568,7 +568,7 @@ h1.arrow {
 	font-weight: bold;
 }
 h1.arrow span {
-    color: #E04343;
+    color: darkgoldenrod;
 }
 /* ==========================================================================About========================================================================== */
 .about-image {
@@ -579,7 +579,7 @@ h1.arrow span {
 	background-size:cover;
 }
 .color-bg {
-	background: #E04343;
+	background: darkgoldenrod;
 }
 
 .color-bg a {
@@ -633,12 +633,12 @@ h1.arrow span {
 	margin-bottom:40px;
 	-webkit-transition:all .3s ease-out;
 	transition:all .3s ease-out;
-	border: 1px solid #E04343;
-	color: #E04343;
+	border: 1px solid darkgoldenrod;
+	color: darkgoldenrod;
 }
 .services .item:hover .icon {
-	background: #E04343;
-	border: 1px solid #E04343;
+	background: goldenrod;
+	border: 1px solid goldenrod;
 }
 .services .item [class*=fa] {
 	-webkit-transition:all .3s ease-out;
@@ -870,7 +870,7 @@ img.grayscale:hover {
 }
 /* ==========================================================================CTA========================================================================== */
 .spacer-cta {
-	background-color: #E04343;
+	background-color: darkgoldenrod;
 	padding:70px 0;
 }
 .outline-btn {
@@ -919,7 +919,7 @@ ul.social-buttons li:last-child {
 .social-btn {
 	width:40px;
 	height:40px;
-	background: #E04343;
+	background: darkgoldenrod;
 	display:inline-block;
 	color:#fff;
 	font-size:17px;
