@@ -637,7 +637,7 @@ h1.arrow span {
 	color: rgb(235, 95, 95);
 }
 .services .item:hover .icon {
-	background: rgb(235, 95, 95);
+	background: #FFE800;
 	border: 1px solid rgb(235, 95, 95);
 }
 .services .item [class*=fa] {
@@ -823,6 +823,27 @@ img.grayscale:hover {
 	margin-left:auto;
 	margin-right:auto;
 	top: 50px;
+}
+
+.features .container {
+	background-color: #FFE800;
+	border-radius: 10px;
+}
+
+.features .fa
+{
+	border-radius: 50%;
+	color: #FFF;
+	font-size: 28px;
+	width: 100px;
+	height: 100px;
+	line-height: 100px;
+	text-align: center;
+	margin-top: 30px;
+	margin-bottom: 10px;
+	-webkit-transition: all 0.4s ease;
+	transition: all 0.4s ease;
+    background: white;
 }
 /* ==========================================================================Subscribe========================================================================== */
 .subscribe {
