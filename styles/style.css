@@ -836,15 +836,21 @@ img.grayscale:hover {
 	border-radius: 50%;
 	color: #FFF;
 	font-size: 28px;
-	width: 100px;
-	height: 100px;
+	width: 70px;
+	height: 70px;
 	line-height: 100px;
 	text-align: center;
-	margin-top: 30px;
+	margin-top: 10px;
 	margin-bottom: 10px;
 	-webkit-transition: all 0.4s ease;
 	transition: all 0.4s ease;
     background: white;
+}
+
+.projectDescriptions {
+	margin-left: 100px;
+	margin-right: 100px;
+	border-radius: 50px;
 }
 /* ==========================================================================Subscribe========================================================================== */
 .subscribe {
